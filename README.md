@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Berin Aniesh. I like simulating physical phenomena in software (CFD, Neutronics). I also like to code and I like high performace computing. I have also worked with chess engines, Android ROMs and Django. Learning C++ and Rust at the moment. More personal/smaller/less important projects at my [gitlab](https://gitlab.com/berinaniesh). 
+I am Berin Aniesh. I like simulating physical phenomena in software (CFD, Neutronics). I also like to code and I like high performace computing. Currently working as an ML engineer at Kenfra Research Solutions.  I have also worked with chess engines, Android ROMs and Django. Learning C++ and Rust at the moment. More personal/smaller/less important projects at my [gitlab](https://gitlab.com/berinaniesh). 
 
 <!--
 **berinaniesh/berinaniesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
