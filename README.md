@@ -10,6 +10,7 @@ More personal/smaller/less important projects at my [gitlab](https://gitlab.com/
 <p align='left'>
 <a href="https://python.org" target='_blank'><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"/>
 <a href="https://rust-lang.org/" target="_blank"><img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" width=55 height=55>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=55 height=55>
 <a href="https://tensorflow.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width=40 height=40/>
 <a href="https://djangoproject.com" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width=120 height=40/>
 <a href="https://openmc.org/" target="_blank"><img src="https://docs.openmc.org/en/stable/_static/openmc_logo.png" width=160 height=40>
