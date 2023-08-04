@@ -5,9 +5,9 @@
 - 🔭 I *believe* God created this universe and all that is in it approximately 6000 years ago.
 - 🤔 Conversation starter: Did the universe have a beginning? If so, who / what started it?
 
-More personal/smaller projects at my [gitlab](https://gitlab.com/berinaniesh).
+More personal/smaller projects at [gitlab](https://gitlab.com/berinaniesh).
 
-Data science related stuff at my [kaggle](https://kaggle.com/berinaniesh).
+Data science related stuff at [kaggle](https://kaggle.com/berinaniesh).
 
 ### Languages and tools
 
