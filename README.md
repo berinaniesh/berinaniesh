@@ -7,6 +7,8 @@
 
 More personal/smaller projects at my [gitlab](https://gitlab.com/berinaniesh).
 
+Data science related stuff at my [kaggle](https://kaggle.com/berinaniesh).
+
 ### Languages and tools
 
 <p align='left'>
