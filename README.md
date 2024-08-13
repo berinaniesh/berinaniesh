@@ -1,5 +1,4 @@
-- 👋 Hi, I'm Berin
+- 👋 Hi, I'm Berin.
 - 🌱 I am familiar with web development, linux and neural networks. 
 - 🌲 I run the site [versequick.com](https://versequick.com).
-- 💬 [Telegram](https://t.me/berinaniesh)
-- ✉️ [Email](mailto:berinaniesh@gmail.com)
+- 💬 [Telegram](https://t.me/berinaniesh).
